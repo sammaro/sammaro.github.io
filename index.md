@@ -29,17 +29,17 @@
 
 💻 Linux - Java - NodeJS - Srping
 
-🌐 &nbsp; Bootstrap - CSS - HTML - Material - MaterializeCSS - MUI - NextJS - React - SASS - TailWindCSS - Typescript
+🌐 Bootstrap - CSS - HTML - Material - MaterializeCSS - MUI - NextJS - React - SASS - TailWindCSS - Typescript
 
-🛢 &nbsp; Elastic - FireBase - FireStore - Mariadb - MongoDB - MySQL - Oracle - SQLServer - PostgreSQL - Redis
+🛢 Elastic - FireBase - FireStore - Mariadb - MongoDB - MySQL - Oracle - SQLServer - PostgreSQL - Redis
 
-🔧 &nbsp; Azure - Docker🐳 - GCP - GIT - Jenkins - Markdown - Postman
+🔧 Azure - Docker🐳 - GCP - GIT - Jenkins - Markdown - Postman
 
 <br />
 
 <h3>🛠 To Learn</h3>
 
-🔧 &nbsp; AWS - Flask - Grafana - Kibana - Kubernetes - Electron
+🔧 AWS - Flask - Grafana - Kibana - Kubernetes - Electron
 
 
 <hr>
