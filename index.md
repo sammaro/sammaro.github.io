@@ -5,43 +5,39 @@
 
 <h3>💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying and coding stuffs.
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-- 🔭 I’m currently working on [Shop in NextJS](https://github.com/sammaro/next12-demo)
-- 👨‍💻 All of my projects are available at [https://github.com/sammaro/](https://github.com/sammaro/)
-- 💬 Ask me about **react, java, docker**
-- 📫 How to reach me **samaro@mail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/marcelo-samuel/](https://www.linkedin.com/in/marcelo-samuel/)
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-<!--
-- 👯 I’m looking to collaborate on [Shop in NextJS](https://github.com/sammaro/next12-demo)
+🎓 &nbsp; Studying and coding stuffs.
 
-- 🤝 I’m looking for help with [Shop in NextJS](https://github.com/sammaro/next12-demo)
+🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- 📝 I regularly write articles on [https://github.com/sammaro/](https://github.com/sammaro/)
+✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
-- ⚡ Fun fact **https://github.com/sammaro/**
--->
+🔭 I’m currently working on [Shop in NextJS](https://github.com/sammaro/next12-demo)
+
+👨‍💻 All of my projects are available at [https://github.com/sammaro/](https://github.com/sammaro/)
+
+💬 Ask me about **react, java, docker**
+
+📫 How to reach me **samaro@mail.com**
+
+📄 Know about my experiences [https://www.linkedin.com/in/marcelo-samuel/](https://www.linkedin.com/in/marcelo-samuel/)
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Linux | Java | NodeJS | Srping
+💻 &nbsp; Linux | Java | NodeJS | Srping
 
-- 🌐 &nbsp; Bootstrap | CSS | HTML | Material | MaterializeCSS | MUI | NextJS | React | SASS | TailWindCSS | Typescript
+🌐 &nbsp; Bootstrap | CSS | HTML | Material | MaterializeCSS | MUI | NextJS | React | SASS | TailWindCSS | Typescript
 
-- 🛢 &nbsp; Elastic | FireBase | FireStore | Mariadb | MongoDB | MySQL | Oracle | SQLServer | PostgreSQL | Redis
+🛢 &nbsp; Elastic | FireBase | FireStore | Mariadb | MongoDB | MySQL | Oracle | SQLServer | PostgreSQL | Redis
 
-- 🔧 &nbsp; Azure | Docker🐳 | GCP | GIT | Jenkins | Markdown | Postman | 
+🔧 &nbsp; Azure | Docker🐳 | GCP | GIT | Jenkins | Markdown | Postman | 
 
-<!--
-- 🖥 &nbsp; Photoshop | Krita
--->
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Flask | Grafana | Kibana | Kubernetes | Electron
+🔧 &nbsp; AWS | Flask | Grafana | Kibana | Kubernetes | Electron
 
 
 <hr>
@@ -101,56 +97,9 @@
   </details>
 <br />
 
-<hr>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&rank_icon=github&include_all_commits=true&count_private=true&line_height=20&locale=en&theme=github_dark" alt="Sammaro's Github Stats" /></p>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=sammaro&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="sammaro" /> -->
 
-<br />
-
-<div align="center">
-<details>
-  <summary>More stats</summary>
-
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammaro&theme=transparent" width="32.5%" />
-
-  <picture>
-    <source
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammaro&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      align="center"
-      alt="Sammaro's Github Stats"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammaro&theme=github"
-    />
-  </picture>
-  
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammaro&theme=transparent" width="32.5%" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammaro&theme=transparent" width="32.5%" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammaro&theme=transparent" width="32.5%" />
-
-  
-<!-- ![sammaro github-stats](https://stats.hyochan.dev/api/github-stats?login=sammaro) -->
-<!-- ![sammaro github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=sammaro) -->
-<!-- ![sammaro github-trophies](https://stats.hyochan.dev/api/github-trophies?login=sammaro) -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammaro&label=Profile%20views&color=b40e0e&style=flat-square" alt="sammaro" /> </p> -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammaro" alt="sammaro" /></a> </p> -->
-<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sammaro&theme=dark" alt="sammaro" /></p> -->
-  
-</details>
-</div>
-
-<!--
-<details>
-  <summary>Some Projects</summary>
-  
-  [![Next12-Demo](https://github-readme-stats.vercel.app/api/pin/?username=sammaro&repo=next12-demo)](https://github.com/sammaro/next12-demo)
-  [![Next12-Demo](https://github-readme-stats.vercel.app/api/pin/?username=sammaro&repo=next12-demo)](https://github.com/sammaro/next12-demo)
-
-</details>
--->
 <hr>
 
 ⭐️ From [sammaro](https://github.com/sammaro)
