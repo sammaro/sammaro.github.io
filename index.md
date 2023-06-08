@@ -26,18 +26,18 @@
 
 <h3>🛠 Tech Stack</h3>
 
-💻 &nbsp; Linux | Java | NodeJS | Srping
+💻 Linux - Java - NodeJS - Srping
 
-🌐 &nbsp; Bootstrap | CSS | HTML | Material | MaterializeCSS | MUI | NextJS | React | SASS | TailWindCSS | Typescript
+🌐 &nbsp; Bootstrap - CSS - HTML - Material - MaterializeCSS - MUI - NextJS - React - SASS - TailWindCSS - Typescript
 
-🛢 &nbsp; Elastic | FireBase | FireStore | Mariadb | MongoDB | MySQL | Oracle | SQLServer | PostgreSQL | Redis
+🛢 &nbsp; Elastic - FireBase - FireStore - Mariadb - MongoDB - MySQL - Oracle - SQLServer - PostgreSQL - Redis
 
-🔧 &nbsp; Azure | Docker🐳 | GCP | GIT | Jenkins | Markdown | Postman | 
+🔧 &nbsp; Azure - Docker🐳 - GCP - GIT - Jenkins - Markdown - Postman
 
 
 <h3>🛠 To Learn</h3>
 
-🔧 &nbsp; AWS | Flask | Grafana | Kibana | Kubernetes | Electron
+🔧 &nbsp; AWS - Flask - Grafana - Kibana - Kubernetes - Electron
 
 
 <hr>
@@ -75,20 +75,14 @@
 
 
 <details open>
-  <summary><h3 align="left">Languages and Tools:</h3></summary>
+  <summary>Languages and Tools:</summary>
   <p align="right">
     <a href="https://github.com/sammaro">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github_dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img
-          align="left"
-          alt="Sammaro's Github Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github"
-        />
-      </picture>
+      <img
+        align="left"
+        alt="Sammaro's Github Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github"
+      />
     </a>
   </p>
 
@@ -97,7 +91,7 @@
   </details>
 <br />
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&rank_icon=github&include_all_commits=true&count_private=true&line_height=20&locale=en&theme=github_dark" alt="Sammaro's Github Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&rank_icon=github&include_all_commits=true&count_private=true&line_height=20&locale=en&theme=github" alt="Sammaro's Github Stats" /></p>
 
 
 <hr>
