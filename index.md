@@ -23,6 +23,7 @@
 
 📄 Know about my experiences [https://www.linkedin.com/in/marcelo-samuel/](https://www.linkedin.com/in/marcelo-samuel/)
 
+<br />
 
 <h3>🛠 Tech Stack</h3>
 
@@ -34,6 +35,7 @@
 
 🔧 &nbsp; Azure - Docker🐳 - GCP - GIT - Jenkins - Markdown - Postman
 
+<br />
 
 <h3>🛠 To Learn</h3>
 
@@ -72,10 +74,11 @@
 
 
 <hr>
-
+<br />
 
 <details open>
   <summary>Languages and Tools:</summary>
+  <br />
   <p align="right">
     <a href="https://github.com/sammaro">
       <img
