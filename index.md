@@ -5,13 +5,13 @@
 
 <h3>💻 About Me </h3>
 
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+🤔 Exploring new technologies and developing software solutions and quick hacks.
 
-🎓 &nbsp; Studying and coding stuffs.
+🎓 Studying and coding stuffs.
 
-🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+🌱 Learning about Cloud Tech, Systems Design.
 
-✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+✍️ Pursuing Web Development as hobbies/side hustles.
 
 🔭 I’m currently working on [Shop in NextJS](https://github.com/sammaro/next12-demo)
 
@@ -27,7 +27,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-💻 Linux - Java - NodeJS - Srping
+💻 Linux - Java - NodeJS - Spring
 
 🌐 Bootstrap - CSS - HTML - Material - MaterializeCSS - MUI - NextJS - React - SASS - TailWindCSS - Typescript
 
