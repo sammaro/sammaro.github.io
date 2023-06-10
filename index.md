@@ -2,8 +2,8 @@
   <img align="right" alt="Sammaro's github.io las commit"           src="https://img.shields.io/github/last-commit/sammaro/sammaro.github.io" />
   <img align="right" alt="Sammaro's github.io website status"       src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsammaro%2Fsammaro.github.io" />
 </p>
-
-<hr>
+<br />
+<hr />
 
 <h1 align="center">Hi there 👋, I'm Sam</h1>
 <h3 align="center">👨‍🎓 A passionate developer from Argentina</h3>
