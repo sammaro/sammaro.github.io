@@ -22,13 +22,13 @@
 
 🔭 I’m currently working on [Shop in NextJS](https://github.com/sammaro/next12-demo)
 
-👨‍💻 All of my projects are available at [https://github.com/sammaro/](https://github.com/sammaro/)
+👨‍💻 All of my projects are available at [GitHub](https://github.com/sammaro/)
 
 💬 Ask me about **react, java, docker**
 
 📫 How to reach me **samaro@mail.com**
 
-📄 Know about my experiences [https://www.linkedin.com/in/marcelo-samuel/](https://www.linkedin.com/in/marcelo-samuel/)
+📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/marcelo-samuel/)
 
 <br />
 
