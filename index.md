@@ -46,7 +46,7 @@
 
 <h3>🛠 To Learn</h3>
 
-🔧 AWS - Flask - Grafana - Kibana - Kubernetes - Electron
+🔧 AWS - Flask - Grafana - Kibana - Kubernetes - Electron - GraphQL
 
 
 <hr>
@@ -101,7 +101,7 @@
   </details>
 <br />
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&rank_icon=github&include_all_commits=true&count_private=true&line_height=20&locale=en&theme=github" alt="Sammaro's Github Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&rank_icon=github&include_all_commits=true&count_private=true&line_height=20&locale=en&theme=github_dark" alt="Sammaro's Github Stats" /></p>
 
 
 <hr>
