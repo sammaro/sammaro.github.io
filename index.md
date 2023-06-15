@@ -87,9 +87,9 @@
   <summary>Languages and Tools:</summary>
   <br />
 
-  ### 🔭 Technology:
+### 🔭 Technology:
 
-  #### Frontend
+#### Frontend
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
@@ -103,7 +103,7 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" />
   </div>
 
-  #### Backend
+#### Backend
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
@@ -112,7 +112,7 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" />
   </div>
 
-  #### Database
+#### Database
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MySQL" />
@@ -126,14 +126,14 @@
 
   </div>
 
-  #### DevOps
+#### DevOps
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" />
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" />
   </div>
 
-  #### Tools
+#### Tools
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
@@ -146,7 +146,7 @@
 <p align="left">
   <a href="https://github.com/sammaro">
     <img
-      align="right"
+      align=""
       alt="Sammaro's Github Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github"
     />
