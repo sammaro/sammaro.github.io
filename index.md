@@ -146,12 +146,12 @@
 <p align="left">
   <a href="https://github.com/sammaro">
     <img
-      align="left"
+      align=""
       alt="Sammaro's Github Languages"
       src="https://github-readme-stats-samaro.vercel.app/api/top-langs/?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github&size_weight=1&count_weight=0"
     />
     <img
-       align="right"
+       align=""
        alt="Sammaro's Github Stats"
        src="https://github-readme-stats-samaro.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&include_all_commits=true&count_private=true&line_height=20&locale=en&rank_icon=github&theme=github"
     />
