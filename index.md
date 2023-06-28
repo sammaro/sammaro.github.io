@@ -5,8 +5,8 @@
 <br />
 <hr />
 
-<h1 align="center">Hi there 👋, I'm Sam</h1>
-<h3 align="center">👨‍🎓 A passionate developer from Argentina</h3>
+<h1 align="center">Hi there, I'm Sam. 👋</h1>
+<h3 align="center">Developer from Argentina</h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -87,9 +87,9 @@
   <summary>Languages and Tools:</summary>
   <br />
 
-### 🔭 Technology:
+<h3>🔭 Technology:</h3>
 
-#### Frontend
+<h4>Frontend</h4>
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
@@ -103,7 +103,7 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" />
   </div>
 
-#### Backend
+<h4>Backend</h4>
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
@@ -112,7 +112,7 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" />
   </div>
 
-#### Database
+<h4>Database</h4>
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MySQL" />
@@ -126,14 +126,14 @@
 
   </div>
 
-#### DevOps
+<h4>DevOps</h4>
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" />
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" />
   </div>
 
-#### Tools
+<h4>Tools</h4>
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
@@ -159,4 +159,4 @@
   
 <hr>
 
-⭐️ From [sammaro](https://github.com/sammaro)
+⭐️ Public stats From [sammaro](https://github.com/sammaro)
