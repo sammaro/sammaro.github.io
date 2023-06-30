@@ -1,10 +1,3 @@
-<p>
-  <img align="right" alt="Sammaro's github.io las commit"           src="https://img.shields.io/github/last-commit/sammaro/sammaro.github.io" />
-  <img align="right" alt="Sammaro's github.io website status"       src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsammaro%2Fsammaro.github.io" />
-</p>
-<br />
-<hr />
-
 <h1 align="center">Hi there, I'm Sam. 👋</h1>
 <h3 align="center">Developer from Argentina</h3>
 
@@ -71,12 +64,6 @@
       alt="GitHub Sammaro"
     />
   </a>
-  <a href="https://www.behance.net/marcelosamuel">
-    <img
-      src="https://img.shields.io/badge/Sammaro-blue?style=flat-square&logo=behance&logoColor=white"
-      alt="Behance Sammaro"
-    />
-  </a>
 </p>
 
 
@@ -102,7 +89,7 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" />
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" />
   </div>
-
+<br />
 <h4>Backend</h4>
 
   <div style="display: flex">
@@ -111,7 +98,7 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" />
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" />
   </div>
-
+<br />
 <h4>Database</h4>
 
   <div style="display: flex">
@@ -125,14 +112,14 @@
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="FireBase" />
 
   </div>
-
+<br />
 <h4>DevOps</h4>
 
   <div style="display: flex">
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" />
     <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" />
   </div>
-
+<br />
 <h4>Tools</h4>
 
   <div style="display: flex">
@@ -144,16 +131,17 @@
 <br />
 
 <p align="left">
+  <h3>Public Stats</h3>
   <a href="https://github.com/sammaro">
     <img
       align=""
       alt="Sammaro's Github Languages"
-      src="https://github-readme-stats-samaro.vercel.app/api/top-langs/?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github&size_weight=1&count_weight=0"
+      src="https://github-readme-stats-samaro.vercel.app/api/top-langs?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github&size_weight=1&count_weight=0"
     />
     <img
        align=""
        alt="Sammaro's Github Stats"
-       src="https://github-readme-stats-samaro.vercel.app/api?username=sammaro&show_icons=true&cache_seconds=86400&include_all_commits=true&count_private=true&line_height=20&locale=en&rank_icon=github&theme=github"
+       src="https://github-readme-stats-samaro.vercel.app/api/?username=sammaro&show_icons=true&cache_seconds=86400&include_all_commits=true&count_private=true&line_height=20&locale=en&rank_icon=github&theme=github"
     />
   </a>
 </p>
