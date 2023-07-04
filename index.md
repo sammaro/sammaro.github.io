@@ -131,7 +131,7 @@
 <br />
 
 <p align="left">
-  <h3>Public Stats</h3>
+  <h3>GitHub Stats</h3>
   <a href="https://github.com/sammaro">
     <img
       align=""
@@ -148,4 +148,4 @@
   
 <hr>
 
-⭐️ Public stats From [sammaro](https://github.com/sammaro)
+⭐️ From [sammaro](https://github.com/sammaro)
