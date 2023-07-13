@@ -141,7 +141,7 @@
     <img
        align=""
        alt="Sammaro's Github Stats"
-       src="https://github-readme-stats-samaro.vercel.app/api/?username=sammaro&show_icons=true&cache_seconds=86400&include_all_commits=true&count_private=true&line_height=20&locale=en&rank_icon=github&theme=github"
+       src="https://github-readme-stats-samaro.vercel.app/api/?username=sammaro&show_icons=true&cache_seconds=86400&include_all_commits=true&count_private=true&line_height=24&locale=en&rank_icon=github&theme=github"
     />
   </a>
 </p>
